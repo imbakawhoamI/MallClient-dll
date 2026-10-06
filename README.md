@@ -1,0 +1,2 @@
+# MallClient-dll
+ゴミクライアント
